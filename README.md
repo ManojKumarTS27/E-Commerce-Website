@@ -1,6 +1,6 @@
 # 🛒 E-Commerce Website (Frontend)
 
-Link for this webpage https://jebastin2003.github.io/E-commerce-webpage/
+Link for this webpage https://manojkumarts27.github.io/E-Commerce-Website/
 
 A simple **E-Commerce frontend website** built using **HTML, CSS, and JavaScript**, inspired by Amazon/Flipkart UI.  
 It is fully hosted on **GitHub Pages** and allows users to browse products, add them to cart, and place orders.
